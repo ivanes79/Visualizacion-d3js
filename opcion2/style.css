@@ -1,0 +1,40 @@
+#linea{
+    fill:none;
+    stroke: rgb(39, 42, 230);
+    stroke-width: 2;
+}
+
+#Gisele-Bündchen{
+    fill: rgb(41, 6, 84);
+}
+#Bar-Rafaeli{
+    fill: rgb(111, 95, 139);
+}
+#Blake-Lively{
+    fill: rgb(50, 17, 93);
+}
+#Erin-Heatherson{
+    fill: rgb(95, 70, 125);
+}
+#Toni-Garrn{
+    fill: rgb(41, 6, 84);
+}
+#Kelly-Rohrbach{
+    fill: rgb(111, 95, 139);
+}
+#Nina-Agdal{
+    fill: rgb(41, 6, 84);
+}
+#Camila-Morrone{
+    fill: rgb(111, 95, 139);
+}
+g.show{
+    visibility: visible !important;
+    font-size: x-large;
+    font-family:monospace;
+    fill:rgb(56, 9, 88);
+    
+}
+g.hide{
+    visibility: hidden;
+}
